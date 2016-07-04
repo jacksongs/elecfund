@@ -1,0 +1,10 @@
+2016 Federal Election Enrolment by State [Please Note: These results are not final. Event:20499 Phase:PostElection Generated:2016-07-04T10:27:52 Cycle:6a0356d8-a241-4d4b-8024-a6e85fce7fff Created:2016-07-04T10:24:44 Environment:PROD Site:FDC Server:DB01 Version:10.4.37.36662]
+StateAb,StateNm,CloseOfRollsEnrolment,NotebookRollAdditions,NotebookRollDeletions,ReinstatementsPostal,ReinstatementsPrePoll,ReinstatementsAbsent,ReinstatementsProvisional,Enrolment
+NSW,New South Wales,5087171,0,0,0,0,0,0,5087171
+VIC,Victoria,3963538,0,0,0,0,0,0,3963538
+QLD,Queensland,3075709,0,0,0,0,0,0,3075709
+WA,Western Australia,1578462,0,0,0,0,0,0,1578462
+SA,South Australia,1183049,0,0,0,0,0,0,1183049
+TAS,Tasmania,373584,0,0,0,0,0,0,373584
+ACT,Australian Capital Territory,282126,0,0,0,0,0,0,282126
+NT,Northern Territory,133020,0,0,0,0,0,0,133020

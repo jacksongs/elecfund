@@ -1,0 +1,10 @@
+2013 Federal Election Enrolment by State [Event:17496 Phase:FinalResults Generated:2014-10-28T11:23:20 Cycle:570ee0da-3d7a-4f7e-8aa1-3c32a4f287ed Created:2014-05-16T14:24:09 Environment:PROD Site:PARKES Server:ACT01 Version:9.1.17.21449]
+StateAb,StateNm,CloseOfRollsEnrolment,NotebookRollAdditions,NotebookRollDeletions,ReinstatementsPostal,ReinstatementsPrePoll,ReinstatementsAbsent,ReinstatementsProvisional,Enrolment
+NSW,New South Wales,4816991,297,2601,119,888,877,933,4817504
+VIC,Victoria,3715925,236,3123,199,1758,3046,2599,3720640
+QLD,Queensland,2840091,143,2330,195,1224,1877,1900,2843100
+WA,Western Australia,1452272,211,861,43,446,877,825,1453813
+SA,South Australia,1130388,55,369,8,89,175,226,1130572
+TAS,Tasmania,362892,2,230,19,176,171,301,363331
+ACT,Australian Capital Territory,265269,4,119,1,85,7,99,265346
+NT,Northern Territory,128971,15,59,7,82,7,56,129079
